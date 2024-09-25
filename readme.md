@@ -1,5 +1,4 @@
-Bash scripts created in Linux Ubuntu
-using vim and Bash to create files and connect to github 
+Bash scripts created in Linux Ubuntu using vim. 
 
 Linux is pretty dope
 
