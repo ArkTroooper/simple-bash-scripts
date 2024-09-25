@@ -1,5 +1,3 @@
 #!/bin/bash
-# Create a new string
-mystring="lets count the length of this string"
-i=${#mystring}
-echo "Length: $i"
+cut -d , -f 5 <<< "Website,Domain,DNS,SMTP,5005"
+expr substr "458449Hostinger4132" 7 9
